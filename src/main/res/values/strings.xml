@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZygoteSlidingDrawer</string>
+    <string name="app_has_exception">很抱歉应用出现异常</string>
+</resources>
